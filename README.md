@@ -10,10 +10,10 @@ NCTF 2026 challenges and writeups
 | Crypto |       RNG GAME       | SeanDictionary |
 |  Misc  | What a(nother) mess! |     St4rr      |
 |  Misc  |    Quantum Vault     |     St4rr      |
-|        |                      |                |
-|        |                      |                |
-|        |                      |                |
-|        |                      |                |
+|  Web   |      Openshell       |     X1r0z      |
+|  Web   |       N-Horse        |   PureStream   |
+|  Web   |      N-MinSite       |   PureStream   |
+|  Web   |      N-RustPICA      |   PureStream   |
 |        |                      |                |
 |        |                      |                |
 |        |                      |                |
