@@ -18,7 +18,7 @@ NCTF 2026 challenges and writeups
 | Reverse |     Pay For 2048     |     Spreng     |
 | Reverse |    Hook My Secret    |     Spreng     |
 | Reverse |     VM Encryptor     |     Spreng     |
-|         |                      |                |
+| Reverse |     No My Bank!      |     SydzI      |
 |         |                      |                |
 |         |                      |                |
 |         |                      |                |
